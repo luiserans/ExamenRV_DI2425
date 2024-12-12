@@ -1,0 +1,52 @@
+[
+  {
+    "repartidor": "Juan Pérez",
+    "nombrePizza": "Pepperoni Deluxe",
+    "foto": "https://example.com/images/pepperoni-deluxe.jpg"
+  },
+  {
+    "repartidor": "Ana López",
+    "nombrePizza": "Hawaiana Tropical",
+    "foto": "https://example.com/images/hawaiana-tropical.jpg"
+  },
+  {
+    "repartidor": "Carlos Martínez",
+    "nombrePizza": "Cuatro Quesos",
+    "foto": "https://example.com/images/cuatro-quesos.jpg"
+  },
+  {
+    "repartidor": "Laura Gómez",
+    "nombrePizza": "Vegetariana",
+    "foto": "https://example.com/images/vegetariana.jpg"
+  },
+  {
+    "repartidor": "Miguel Torres",
+    "nombrePizza": "Barbacoa Especial",
+    "foto": "https://example.com/images/barbacoa-especial.jpg"
+  },
+  {
+    "repartidor": "Sofía Ramírez",
+    "nombrePizza": "Pollo al Curry",
+    "foto": "https://example.com/images/pollo-al-curry.jp"
+  },
+  {
+    "repartidor": "Fernando Rodríguez",
+    "nombrePizza": "Marinera",
+    "foto": "https://example.com/images/marinera.jpg"
+  },
+  {
+    "repartidor": "Paola Fernández",
+    "nombrePizza": "Mexicana Picante",
+    "foto": "https://example.com/images/mexicana-picante.jpg"
+  },
+  {
+    "repartidor": "Javier Castillo",
+    "nombrePizza": "Napolitana Clásica",
+    "foto": "https://example.com/images/napolitana-clasica.jpg"
+  },
+  {
+    "repartidor": "María Herrera",
+    "nombrePizza": "Caprichosa",
+    "foto": "https://example.com/images/caprichosa.jpg"
+  }
+]
